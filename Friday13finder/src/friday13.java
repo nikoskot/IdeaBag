@@ -58,3 +58,4 @@ public class friday13 {
 	}
 	
 }
+εισαι μαλακας !
